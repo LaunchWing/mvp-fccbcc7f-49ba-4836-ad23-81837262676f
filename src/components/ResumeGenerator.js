@@ -1,0 +1,1 @@
+To handle the logic for generating resumes based on user input and AI analysis.

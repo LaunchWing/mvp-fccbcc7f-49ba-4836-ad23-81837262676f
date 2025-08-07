@@ -1,0 +1,1 @@
+To inform users about data privacy measures and compliance with regulations like GDPR.

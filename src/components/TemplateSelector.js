@@ -1,0 +1,1 @@
+To allow users to select from a variety of resume templates.

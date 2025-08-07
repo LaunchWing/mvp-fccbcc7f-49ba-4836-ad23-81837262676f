@@ -1,0 +1,1 @@
+The main entry point for the application, initializing the app and handling user interactions.

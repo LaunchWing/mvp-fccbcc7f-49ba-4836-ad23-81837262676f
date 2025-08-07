@@ -1,0 +1,1 @@
+To offer users tips on how to effectively share their resume online.

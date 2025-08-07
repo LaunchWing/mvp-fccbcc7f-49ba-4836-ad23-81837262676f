@@ -1,0 +1,1 @@
+To contain functions for optimizing resume content for Applicant Tracking Systems.

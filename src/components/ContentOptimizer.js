@@ -1,0 +1,1 @@
+To suggest improvements to the resume content for optimization with current hiring trends and ATS.

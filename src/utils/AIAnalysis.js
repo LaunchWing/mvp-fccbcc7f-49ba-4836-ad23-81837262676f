@@ -1,0 +1,1 @@
+To contain functions related to AI analysis of user data for resume customization.

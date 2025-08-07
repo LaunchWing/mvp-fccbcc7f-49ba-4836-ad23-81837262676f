@@ -1,0 +1,1 @@
+To collect user data such as personal details, career history, and job preferences.
